@@ -4,4 +4,6 @@ title: CV
 permalink: /CV/
 ---
 
-I am a post-doctoral researcher (research officer) at the London School of Economics' Systemic Risk Centre. My research is in financial economics with a particular interest in market microstructure, market design, financial intermediation and financial regulation.
+* **Current employment** : Senior economist, Financial Markets Department (FMD), Bank of Canada, 8/2019 - present
+* **Past employment** : Research officer, Systemic Risk Centre, London School of Economics, 8/2014 - 7/2019
+* **Education** : PhD in Economics, University College London, 2015
