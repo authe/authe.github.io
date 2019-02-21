@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: cv
+permalink: /cv/
 ---
 
-I am a post-doctoral researcher (research officer) at the London School of Economics' Systemic Risk Centre. My research is in financial economics with a particular interest in market microstructure, market design, financial intermediation and financial regulation.
+I am a senior economist at the Financial Markets Department (FMD) of the Bank of Canada and a research affiliate of the Systemic Risk Centre at the London School of Economics. My research is in financial economics with a particular interest in market structure and design, financial intermediation, and financial regulation.
