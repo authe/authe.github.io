@@ -10,4 +10,13 @@ permalink: /research/
 
 [Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://drive.google.com/file/d/1AwVIJv53cO11Y8j_3KxoFV94YGCSKKCn/view?usp=sharing) (with Marco Cipriani, NY Fed, and Antonio Guarino, UCL)
 
-[Artificial Intelligence, Financial Risk Management and Systemic Risk](http://www.google.com/url?q=http%3A%2F%2Fwww.systemicrisk.ac.uk%2Fpublications%2FSP13&sa=D&sntz=1&usg=AFQjCNGjO1Z4E9tfxU2KYUAJ6Amg0fanBw) (with Jon Danielsson, LSE and Robert Macrae, LSE)
+[Artificial Intelligence, Financial Risk Management and Systemic Risk](http://www.systemicrisk.ac.uk/publications/SP13) (with Jon Danielsson, LSE and Robert Macrae, LSE)
+
+[Preemption and Delay: Debt Financing with Roll Over Risk](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F9o4t0pa7chvb5q0%2Flearning_main.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNGPvHcZYBswAqHMTZs6MQTPTMYlkQ)
+
+
+#### work in progress
+
+Limits to Arbitrage in the Market for Collateral (with Lerby Ergun, Adrian Wolton, Bank of Canada, and Shengxing Zhang, LSE)
+
+The Term Structure of Variance Risk Premia (with Jon Danielsson, LSE, Lerby Ergun, Bank of Canada , Paul Whelan, Copenhagen Business School, and Jean-Pierre Zigrand, LSE)
