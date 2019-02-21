@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: cv
+permalink: /cv/
 ---
 
 #### Employment
