@@ -22,6 +22,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: authemann
 #github_username:  authe
 
+header_pages:
+- research.md
+- cv.md
+
 # Build settings
 markdown: kramdown
 theme: minima
