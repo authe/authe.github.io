@@ -15,20 +15,20 @@
 # in the templates via {{ site.myvariable }}.
 title: Andreas Uthemann
 #author: ""
-#email: a.uthemann@lse.ac.uk
+email: a.uthemann@lse.ac.uk
 description: Andreas Uthemann's research website
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: authemann
 #github_username:  authe
 
-#header_pages:
-#- research.md
-#- cv.md
+header_pages:
+- research.md
+- cv.md
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal #minima
+theme: minima
 plugins:
   - jekyll-feed
 
