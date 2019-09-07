@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Andreas Uthemann
-author: ""
-email: a.uthemann@lse.ac.uk
+#author: ""
+#email: a.uthemann@lse.ac.uk
 description: Andreas Uthemann's research website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: authemann
 #github_username:  authe
 
-header_pages:
-- research.md
-- cv.md
+#header_pages:
+#- research.md
+#- cv.md
 
 # Build settings
 markdown: kramdown
