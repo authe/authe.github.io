@@ -17,7 +17,7 @@ title: Andreas Uthemann
 #email: a.uthemann@lse.ac.uk
 #description: > # this means to ignore newlines until "baseurl:"
 #  Post-doctoral researcher at the Systemic Risk Centre, London School of Economics
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/cv" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: authemann
 #github_username:  authe
