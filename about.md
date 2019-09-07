@@ -1,10 +1,6 @@
 ---
 layout: page
-<<<<<<< HEAD
 title: intro
-=======
-title: 
->>>>>>> master
 permalink: /about/
 ---
 
