@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bio
+title: about
 permalink: /cv/
 ---
 
