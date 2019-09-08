@@ -23,8 +23,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  authe
 
 header_pages:
-- research.md
 - cv.md
+- research.md
 
 # Build settings
 markdown: kramdown
