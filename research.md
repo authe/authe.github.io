@@ -6,7 +6,7 @@ permalink: /research/
 
 #### working papers
 
-[Higher-Order Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](https://drive.google.com/open?id=1yUb5R-cbR7Kmt4EskJAySiBtPgc2B__2) (with Lerby Ergun, Bank of Canada)
+[Higher-Order Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](https://ssrn.com/abstract=3533518) (with Lerby Ergun, Bank of Canada)
 
 [Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://drive.google.com/file/d/1AwVIJv53cO11Y8j_3KxoFV94YGCSKKCn/view?usp=sharing) (with Marco Cipriani, NY Fed, and Antonio Guarino, UCL) [R&R Journal of Financial Economics]
 
