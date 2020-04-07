@@ -12,4 +12,4 @@ August 2014 - July 2019: Research Officer, Systemic Risk Centre, London School o
 #### Education
 PhD in Economics, [University College London](https://www.ucl.ac.uk/economics/), 2015
 
-![cv (pdf)](https://authe.github.io/assets/CV_Uthemann.pdf)
+[cv (pdf)](https://authe.github.io/assets/CV_Uthemann.pdf)
