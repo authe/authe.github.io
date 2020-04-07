@@ -17,13 +17,12 @@ title: Andreas Uthemann
 author: Andreas Uthemann
 email: a.uthemann@lse.ac.uk
 description: Andreas Uthemann's research website
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/cv" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: authemann
 #github_username:  authe
 
 header_pages:
-- index.md
 - cv.md
 - research.md
 
