@@ -9,4 +9,4 @@ Financial Markets Analysis and Research\\
 Financial Markets Department\\
 Bank of Canada
 
-<authemann@bankofcanada.ca> 
+authemann@bankofcanada.ca 
