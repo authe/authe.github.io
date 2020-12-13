@@ -25,6 +25,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages:
 - research.md
 - cv.md
+- contact.md
 
 # Build settings
 markdown: kramdown
