@@ -6,7 +6,7 @@ permalink: /research/
 
 #### working papers
 
-[Strategic Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](https://authe.github.io/assets/ErgunUthemann_StrategicUncertaintyInOTCMarkets.pdf) (with Lerby Ergun, Bank of Canada) [(Online Appendix)](https://authe.github.io/assets/ErgunUthemann_StrategicUncertainty_OnlineAppendix.pdf)[Best Paper Award, Econometric Society European Meeting 2017]
+[Strategic Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](https://authe.github.io/assets/ErgunUthemann_StrategicUncertaintyInOTCMarkets.pdf) (with Lerby Ergun, Bank of Canada) [Best Paper Award, Econometric Society European Meeting 2017]
 
 [Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://authe.github.io/assets/FTT_CiprianiGuarinoUthemann_December19.pdf) (with Marco Cipriani, NY Fed, and Antonio Guarino, UCL) [R&R Journal of Financial Economics]
 
