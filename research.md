@@ -13,6 +13,6 @@ R&R <em>The Journal of Finance</em>
 
 #### publications
 
-[Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://www.newyorkfed.org/research/staff_reports/sr993) with Marco Cipriani (NY Fed) and Antonio Guarino (UCL)<br>, forthcoming <em>Journal of Financial Economics</em>
+[Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://www.newyorkfed.org/research/staff_reports/sr993) with Marco Cipriani (NY Fed) and Antonio Guarino (UCL), forthcoming <em>Journal of Financial Economics</em>
 
 [Artificial Intelligence and Systemic Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3410948) with Jon Danielsson (LSE) and Robert Macrae (LSE), forthcoming <em>Journal of Banking & Finance</em>.
