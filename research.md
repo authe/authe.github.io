@@ -13,6 +13,6 @@ permalink: /research/
 
 #### publications
 
-[Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://www.newyorkfed.org/research/staff_reports/sr993) with Marco Cipriani (NY Fed) and Antonio Guarino (UCL), accepted at the <em>Journal of Financial Economics</em> (2022).
+[Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://authe.github.io/assets/FTT_JFE_final) with Marco Cipriani (NY Fed) and Antonio Guarino (UCL), accepted at the <em>Journal of Financial Economics</em> (2022).
 
 [Artificial Intelligence and Systemic Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3410948) with Jon Danielsson (LSE) and Robert Macrae (LSE), accepted at the <em>Journal of Banking & Finance</em> (2021).
