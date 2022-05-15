@@ -6,13 +6,13 @@ permalink: /research/
 
 #### working papers
 
-[Strategic Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](https://authe.github.io/assets/StrategicUncertaintyOTCMarkets.pdf) with Lerby Ergun (Bank of Canada), R&R (1st round) at <em>The Journal of Finance</em>.<br>
+[Strategic Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](https://authe.github.io/assets/StrategicUncertaintyOTCMarkets.pdf) with Lerby Ergun (Bank of Canada), R&R at <em>The Journal of Finance</em>.<br>
 [Winner of Best Paper Award, Econometric Society European Meeting 2017]
 
 [Preemption and Delay: Debt Financing with Roll Over Risk](https://authe.github.io/assets/RunsSocialLearning_Uthemann.pdf)
 
 #### publications
 
-[Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://authe.github.io/assets/FTT_JFE_final.pdf) with Marco Cipriani (NY Fed) and Antonio Guarino (UCL), accepted at the <em>Journal of Financial Economics</em> (2022).
+[Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://authe.github.io/assets/FTT_JFE_final.pdf) with Marco Cipriani (NY Fed) and Antonio Guarino (UCL), accepted at the <em>Journal of Financial Economics</em>, 2022.
 
-[Artificial Intelligence and Systemic Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3410948) with Jon Danielsson (LSE) and Robert Macrae (LSE), accepted at the <em>Journal of Banking & Finance</em> (2021).
+[Artificial Intelligence and Systemic Risk](https://www.sciencedirect.com/science/article/pii/S0378426621002466) with Jon Danielsson (LSE) and Robert Macrae (LSE), <em>Journal of Banking & Finance</em>, 2022, Vol. 140 (Special issus on institutions, risk measures, and portfolio optimization).
