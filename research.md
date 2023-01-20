@@ -17,4 +17,9 @@ permalink: /research/
 
 [The calming of short-term market fears and its long-term consequences: The central banks' dilemma](https://authe.github.io/assets/MarketFears_FedCrisisActions.pdf) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE)
 
+
+#### older projects (in need of TLC)
+
 [Preemption and Delay: Debt Financing with Roll Over Risk](https://authe.github.io/assets/RunsSocialLearning_Uthemann.pdf)
+
+[Competitive Screening of Customers with Non-common Priors](https://authe.github.io/assets/screening_ncp.pdf)
