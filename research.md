@@ -21,6 +21,7 @@ permalink: /research/
 #### policy papers
 
 [On the use of artificial intelligence in financial regulations and the impact on financial stability](https://arxiv.org/abs/2310.11293) with Jon Danielsson (LSE), 2024.
+[VoxEU column: How AI can undermine financial stability](https://cepr.org/voxeu/columns/how-ai-can-undermine-financial-stability)
 
 [COVID-19 Crisis: Lessons Learned for Future Policy Research](https://www.bankofcanada.ca/2021/02/staff-discussion-paper-2021-2/) with Jean-Sebastien Fontaine, Corey Garriott, Jesse Johal and Jessica Lee (Bank of Canada), <em>Bank of Canada Staff Discussion Paper<em>, 2021.
 
