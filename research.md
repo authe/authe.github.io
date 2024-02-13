@@ -6,7 +6,7 @@ permalink: /research/
 
 #### publications
 
-[Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://authe.github.io/assets/FTT_JFE_final.pdf) with Marco Cipriani (NY Fed) and Antonio Guarino (UCL), accepted at the <em>Journal of Financial Economics</em>, 2022.
+[Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://www.sciencedirect.com/science/article/abs/pii/S0304405X22000940) with Marco Cipriani (NY Fed) and Antonio Guarino (UCL), <em>Journal of Financial Economics</em>, volume 146(3), 2022.
 
 [Artificial Intelligence and Systemic Risk](https://www.sciencedirect.com/science/article/pii/S0378426621002466) with Jon Danielsson (LSE) and Robert Macrae (LSE), <em>Journal of Banking & Finance</em>, volume 140 (special issue on institutions, risk measures, and portfolio optimization), 2022.
 
@@ -18,7 +18,14 @@ permalink: /research/
 [The calming of short-term market fears and its long-term consequences: The central banks' dilemma](https://authe.github.io/assets/MarketFears_FedCrisisActions.pdf) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE)
 
 
-#### older projects (in need of TLC)
+#### policy papers
+
+[On the use of artificial intelligence in financial regulations and the impact on financial stability](https://arxiv.org/abs/2310.11293) with Jon Danielsson (LSE), 2024.
+
+[COVID-19 Crisis: Lessons Learned for Future Policy Research](https://www.bankofcanada.ca/2021/02/staff-discussion-paper-2021-2/) with Jean-Sebastien Fontaine, Corey Garriott, Jesse Johal and Jessica Lee (Bank of Canada), <em>Bank of Canada Staff Discussion Paper<em>, 2021.
+
+
+#### older research projects (in need of TLC)
 
 [Preemption and Delay: Debt Financing with Roll Over Risk](https://authe.github.io/assets/RunsSocialLearning_Uthemann.pdf)
 
