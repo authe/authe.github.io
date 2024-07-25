@@ -20,6 +20,8 @@ permalink: /research/
 
 #### policy papers
 
+[Artificial intelligence and financial crises](https://arxiv.org/abs/2407.17048) with Jon Danielsson (LSE), 2024.
+
 [On the use of artificial intelligence in financial regulations and the impact on financial stability](https://arxiv.org/abs/2310.11293) with Jon Danielsson (LSE), 2024.
 [VoxEU column: How AI can undermine financial stability](https://cepr.org/voxeu/columns/how-ai-can-undermine-financial-stability)
 
