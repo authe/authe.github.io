@@ -17,6 +17,8 @@ permalink: /research/
 
 [The calming of short-term market fears and its long-term consequences: The central banks' dilemma](https://authe.github.io/assets/MarketFears_FedCrisisActions.pdf) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE)
 
+[Market Segmentation Across Stocks, Bonds, and Derivatives ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5083905) with Milena Wittwer (Boston College)
+
 
 #### policy papers
 
