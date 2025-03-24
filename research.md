@@ -16,7 +16,7 @@ permalink: /research/
 
 [Demand-Driven Risk Premia in FX and Bond Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5095671) with Ingomar Krohn, Rishi Vala and Jun Yang (Bank of Canada)
 
-[The calming of short-term market fears and its long-term consequences: The central banks' dilemma](https://authe.github.io/assets/MarketFears_FedCrisisActions.pdf) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE)
+[The calming of short-term market fears and its long-term consequences: The central banks' dilemma](https://authe.github.io/assets/MarketFears_FedCrisisActions.pdf) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE), R&R at <em>The Journal of Money, Credit & Banking</em>.
 
 [Strategic Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](https://authe.github.io/assets/StrategicUncertaintyOTCMarkets.pdf) with Lerby Ergun (Bank of Canada), R&R at <em>The Journal of Finance</em>.<br>
 [Winner of Best Paper Award, Econometric Society European Meeting 2017]
