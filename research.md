@@ -24,10 +24,7 @@ permalink: /research/
 
 #### policy papers
 
-[Artificial intelligence and financial crises](https://arxiv.org/abs/2407.17048) with Jon Danielsson (LSE), 2024.
-
-[On the use of artificial intelligence in financial regulations and the impact on financial stability](https://arxiv.org/abs/2310.11293) with Jon Danielsson (LSE), 2024.
-[VoxEU column: How AI can undermine financial stability](https://cepr.org/voxeu/columns/how-ai-can-undermine-financial-stability)
+[Artificial intelligence and financial crises](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903998) with Jon Danielsson (LSE), 2025.
 
 [How big is cash-futures basis trading in Canada’s government bond market?](https://www.bankofcanada.ca/2024/06/staff-analytical-note-2024-16/) with Rishi Vala (Bank of Canada), <em>Bank of Canada Staff Analytical Note<em>, 2024.
 
