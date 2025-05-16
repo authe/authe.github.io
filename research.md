@@ -32,6 +32,8 @@ permalink: /research/
 
 [COVID-19 Crisis: Lessons Learned for Future Policy Research](https://www.bankofcanada.ca/2021/02/staff-discussion-paper-2021-2/) with Jean-Sebastien Fontaine, Corey Garriott, Jesse Johal and Jessica Lee (Bank of Canada), <em>Bank of Canada Staff Discussion Paper<em>, 2021.
 
+[Artificial intelligence as a central banker](https://cepr.org/voxeu/columns/artificial-intelligence-central-banker) with Jon Danielsson and Robert Macrae (LSE), <em>VoxEU Column<em>, 2020. 
+
 
 #### permanent working papers
 
