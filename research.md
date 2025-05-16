@@ -24,7 +24,7 @@ permalink: /research/
 [Winner of Best Paper Award, Econometric Society European Meeting 2017]
 
 
-#### policy papers
+#### policy briefs
 
 [How central banks can meet the financial stability challenges arising from artificial intelligence](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/how-central-banks-can-meet-the-financial-stability-challenges-arising-from-artificial-intelligence/) with Jon Danielsson (LSE), <em>SUERF Policy Brief No. 1163<em>, 2025.
 
