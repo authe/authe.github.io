@@ -12,9 +12,11 @@ permalink: /research/
 
 #### working papers
 
-[Market Segmentation Across Stocks, Bonds, and Derivatives ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5083905) with Milena Wittwer (Boston College)
+[Specialization in Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5083905) with Milena Wittwer (Boston College)
 
 [Demand-Driven Risk Premia in FX and Bond Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5095671) with Ingomar Krohn, Rishi Vala and Jun Yang (Bank of Canada)
+
+[Artificial intelligence and financial crises](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903998) with Jon Danielsson (LSE), 2025.
 
 [The calming of short-term market fears and its long-term consequences: The central banks' dilemma](https://authe.github.io/assets/MarketFears_FedCrisisActions.pdf) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE), R&R at <em>The Journal of Money, Credit & Banking</em>.
 
@@ -24,7 +26,7 @@ permalink: /research/
 
 #### policy papers
 
-[Artificial intelligence and financial crises](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903998) with Jon Danielsson (LSE), 2025.
+[How central banks can meet the financial stability challenges arising from artificial intelligence](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/how-central-banks-can-meet-the-financial-stability-challenges-arising-from-artificial-intelligence/) with Jon Danielsson (LSE), <em>SUERF Policy Brief No. 1163<em>, 2025.
 
 [How big is cash-futures basis trading in Canada’s government bond market?](https://www.bankofcanada.ca/2024/06/staff-analytical-note-2024-16/) with Rishi Vala (Bank of Canada), <em>Bank of Canada Staff Analytical Note<em>, 2024.
 
