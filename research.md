@@ -12,11 +12,11 @@ permalink: /research/
 
 #### working papers
 
-[Specialization in Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5083905) with Milena Wittwer (Boston College)
+[Specialization in Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5083905) with Milena Wittwer (Boston College).
 
-[Demand-Driven Risk Premia in FX and Bond Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5095671) with Ingomar Krohn, Rishi Vala and Jun Yang (Bank of Canada)
+[Demand-Driven Risk Premia in FX and Bond Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5095671) with Ingomar Krohn, Rishi Vala and Jun Yang (Bank of Canada).
 
-[Artificial intelligence and financial crises](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903998) with Jon Danielsson (LSE), 2025.
+[Artificial intelligence and financial crises](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903998) with Jon Danielsson (LSE).
 
 [The calming of short-term market fears and its long-term consequences: The central banks' dilemma](https://authe.github.io/assets/MarketFears_FedCrisisActions.pdf) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE), R&R at <em>The Journal of Money, Credit & Banking</em>.
 
