@@ -16,7 +16,7 @@ permalink: /research/
 
 [Demand-Driven Risk Premia in FX and Bond Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5095671) with Ingomar Krohn, Rishi Vala and Jun Yang (Bank of Canada).
 
-[Artificial intelligence and financial crises](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903998) with Jon Danielsson (LSE), conditionally accepted at the <em>Journal of Financial Stability</em>..
+[Artificial intelligence and financial crises](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903998) with Jon Danielsson (LSE), conditionally accepted at the <em>Journal of Financial Stability</em>.
 
 [The calming of short-term market fears and its long-term consequences: The central banks' dilemma](https://authe.github.io/assets/MarketFears_FedCrisisActions.pdf) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE), R&R at the <em>Journal of Money, Credit & Banking</em>.
 
