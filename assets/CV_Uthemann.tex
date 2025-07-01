@@ -1,0 +1,245 @@
+\documentclass[margin,line, 11pt]{res}
+
+% File produced by Jeremy West
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+
+% NOTE: you also need the (included) res.cls class file to compile this document
+% Either place the .cls file in the same directory (folder) as this .tex file, or install it globally for your LaTeX distribution (search online for how to do so).
+
+\usepackage{setspace}                                    % Allows for custom margins, etc.
+\usepackage{fullpage}                                    % Use the full page
+\usepackage[latin9]{inputenc}                            % Font definition and
+\usepackage[T1]{fontenc}                                 % Font output type 
+\usepackage{times}
+\usepackage{mmap}                                        % Allows glyphs (e.g. ff) to copy properly (ASCII)
+\usepackage{textcomp}                                    % Supports many symbols such as copyright
+\usepackage{color}                                       % Allow for colored text, etc.
+\usepackage[]{hyperref}                                  % Allow hyperlinks (internal and external)
+\hypersetup{                                             % Custom hyperlink settings
+    pdffitwindow=false,                                  % Window fit to page when opened
+    pdfstartview={XYZ null null 1.00},                   % Fits the zoom of the page to 100%
+    pdfnewwindow=true,                                   % Links in new window
+    colorlinks=true,                                     % false: boxed links; true: colored links
+    linkcolor=black,                                     % Color of internal links (black is necessary for printing quality)
+    citecolor=black,                                     % Color of links to bibliography
+    urlcolor=black,                                      % Color of external links
+    pdfauthor = {Andreas Uthemann},
+    pdfkeywords = {Your Keywords},
+    pdftitle = {Andreas Uthemann: Curriculum Vitae},
+    pdfsubject = {Curriculum Vitae},
+    pdfpagemode = UseNone}
+    
+\oddsidemargin -.5in
+\evensidemargin -.5in
+\textwidth=6.0in
+\itemsep=0in
+\parsep=0in
+% if using pdflatex:
+\setlength{\pdfpagewidth}{\paperwidth}
+\setlength{\pdfpageheight}{\paperheight}
+
+	\addtolength{\topmargin}{-.3in}
+	\addtolength{\textheight}{0.6in} 
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+      
+\usepackage{datetime}                                    % Custom date format for date field
+\newdateformat{mydate}{\monthname[\THEMONTH] \THEYEAR}   % Defining month year date format
+
+\usepackage{fancyhdr}                                    % Used for custom page headers
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.5pt} 
+\rhead{\footnotesize \thepage} %header at the right
+\headsep = 0.5cm
+% FIRST PAGE ONLY (redefine the plain pagestyle)
+\fancypagestyle{plain}{
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt} 
+\headsep = 0.0cm
+\rhead{December 2024}
+}
+
+
+\begin{document}
+
+\name{ {\LARGE Andreas Uthemann} \vspace*{.1in}}
+
+\begin{resume}
+\thispagestyle{plain} % to use first page footer
+
+\section{\sc Citizenship}
+\begin{list1}
+\item[] British and German; Canadian permanent resident 
+\end{list1}
+
+\section{\sc Contact Information}
+\vspace{.05in}
+\begin{tabular}{@{}p{0.20in}p{2.4in}p{2.75in}}
+ & Financial Markets Department  &  Email: 
+\texttt{authemann@bankofcanada.ca} \\            
+ & Bank of Canada   &  \\         
+ & 234 Wellington Street \\       
+ & Ottawa, ON, K1A 0G9, Canada
+\end{tabular}
+
+% You may of course add to or remove from this list of sections as needed
+
+\section{\sc Current Position}
+\begin{list1}
+\item[] Principal Researcher, Financial Markets Department, Bank of Canada
+\end{list1}
+
+\section{\sc Affiliations}
+\begin{list1}
+\item[] Research Associate, Systemic Risk Centre, London School of Economics
+\item[] Research Affiliate, Centre for Finance, University College London
+\end{list1}
+
+\section{\sc Previous Positions}
+\begin{list1}
+\item[] Senior Economist, Financial Markets Department, Bank of Canada, August 2019 - March 2022
+\item[] Research Officer, Systemic Risk Centre, London School of Economics, August 2014 - July 2019
+\end{list1}
+
+\section{\sc Research Interests}
+\begin{list1}
+\item[] Financial Economics, Market Structure \& Design, Financial Intermediation
+\end{list1}
+
+\section{\sc Education}
+
+\begin{list1}
+\item[] PhD in Economics, University College London, June 2015
+\vspace*{0.2cm}
+
+\end{list1}
+
+\section{\sc Publications}
+\begin{list1}
+\item[] Financial Transaction Taxes and the Informational Efficiency of 
+Financial Markets: A Structural Estimation (with Marco Cipriani and Antonio Guarino), forthcoming \textit{Journal of Financial Economics}, 2022.
+\vspace*{0.2cm}
+\item[] Artificial Intelligence and Systemic Risk (with Jon Danielsson and Robert Macrae), \textit{Journal of Banking \& Finance}, vol. 140 (special issue on institutions, risk measures and portfolio optimization), 2022.
+\end{list1}
+
+\section{\sc Working Papers}
+\begin{list1}
+\item[] Demand-Driven Risk Premia in FX and Bond Markets (with Ingomar Krohn, Rishi Vala and Jun Yang)
+\item[] Market Segmentation Across Stocks, Bonds, and Derivatives (with Milena Wittwer)
+\item[] Strategic Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service (with Lerby Ergun), R\&R at the \textit{The Journal of Finance}.\\
+Best Applied Paper Award, Econometric Society European Meeting 2017
+\vspace*{0.2cm}
+\item[] Artificial intelligence and financial crises (with Jon Danielsson)
+\vspace*{0.2cm}
+\item[] The calming of short-term market fears and its long-term consequences: The central banks' dilemma (with Mattia Bevilacqua, Jon Danielsson, Lerby Ergun,  and Jean-Pierre Zigrand)
+\vspace*{0.2cm}
+\item[] Pre-emption \& Delay: Debt Financing with Rollover Risk
+\vspace*{0.2cm}
+\item[] Competitive Screening of Customers with Non-Common Priors
+\end{list1}
+
+% \section{\sc Work in Progress}
+% \begin{list1}
+% \item[] Limits to Arbitrage in the Market for Collateral (with Lerby Ergun, Adrian Walton and Shengxing Zhang)
+% \vspace*{0.2cm}
+% \item[] The Term Structure of Variance Risk Premia (with Jon Danielsson, Lerby Ergun, Paul Whelan and Jean-Pierre Zigrand)
+% \vspace*{0.2cm}
+% %\item[] The European Corporate Bond Market(s)? (with Yiying Zhong and Jean-Pierre Zigrand)
+% \end{list1}
+
+% \section{\sc Publications}
+% \begin{list1}
+% \item[]``SME Financing in a Common Capital Market,'' \textit{SIEPS Policy Report} 2016:6 (with Morgane Fouche, and 
+% Katja Neugebauer).
+% \end{list1}
+
+%\section{\sc Policy Papers}
+%\begin{list1}
+%\item[] Artificial Intelligence and Systemic Risk, \textit{SRC Special Paper}, July 2019 (with Jon Danielsson and Robert Macrae). 
+%\vspace*{0.2cm}
+%\item[] SME Financing in a Capital Markets Union, \textit{SIEPS Policy Report} 2016:6 (with Morgane Fouche and 
+%Katja Neugebauer).
+%\end{list1}
+
+% \section{\sc Teaching Experience}
+% \begin{list1}
+% \item[] Teaching Assistant, Topics in Money and Finance (M.Sc.), University 
+% College London
+% \item[] Teaching Assistant, Macroeconomics (M.Sc.), University College London
+% \item[] Teaching Assistant, Microeconomics (Ph.D.), University College London
+% \end{list1}
+
+\section{\sc Awards} 
+\begin{list1}
+\item[] Econometric Society European Meeting Award for Best Applied Economics Paper, 2017
+%\item[] Outstanding Teaching Assistant Award, Department of Economics, UCL, 2010, 2011
+%\item[] ESRC Scholarship, Centre for Economic Learning and Social Evolution (ELSE), 2005-06
+%\item[] Scholarship for Graduate Studies, German Academic Exchange Service 2002-03
+%\item[] Best Graduate in Economics, Humboldt University, Berlin, 2002
+\end{list1}
+
+\section{\sc Conferences and Invited Seminars} 
+\begin{list1}
+\item[]  \textbf{2024} Workshop on Competition Policy in Direct Financial Markets, ESCP/Sorbonne, Bank of England \textbf{2023} Smith School, of Business, Queen's University, Universit\'e de Bordeaux \textbf{2022} HEC Montr\'eal, Econometric Society European Meeting, Milan \textbf{2021} LSE, Bank of England, European Central Bank \textbf{2020} Financial Market Responses to Covid-19 Workshop, LSE \& Bank of Canada, Econometric Society World Congress \textbf{2019} $\cdot$ Federal Reserve Board, Bank of Canada, \'Ecole Polytechnique, Paris, King's College, London, University of Bristol, Bank of England, University of Copenhagen, Nova SBE, Cat\'olica Lisbon SBE \textbf{2018} Econometric Society European Winter Meeting, Naples, University of Sussex, Cass Business School, North America Summer Meeting, Econometric Society, Davis, CEPR Third Annual Spring Symposium in Financial Economics  \textbf{2017}  Econometric Society European Meeting, Lisbon  \textbf{2016}  Econometric Society World Congress, Montreal, European Economic Association Annual Congress, Mannheim \textbf{2015} Systemic Risk in Over-The-Counter Markets Conference, LSE.
+\end{list1}
+
+\section{\sc Discussions} 
+\begin{list1}
+\item[] ``Market Power and Capital Constraints,'' Jason Allen and Milena Wittwer, Workshop on Competition Policy in Direct Financial Markets, ESCP/Sorbonne, December 2024.
+\item[] ``How does the Fed manage interest rate expectations?'' Robin Tietz, 6th Emerging Scholars in Banking and Finance Conference, Cass Business School, December 2018.
+\item[] ``Financial Consumption and the Cost of Finance: Measuring Financial Efficiency in Europe 1950-2007,'' Guillaume Bazot, LSE/FCA conference on Understanding Financial Market Effectiveness: New Approaches, February 2016. 
+\end{list1}
+
+\section{\sc Conference Organisation} 
+\begin{list1}
+\item[] Co-organizer, 5th Bank of Canada FSRC Macro-Finance Conference, Ottawa, October 2024.
+\item[] Member of the EEA program committee (finance), EEA-ESEM Congress, Milan 2022.
+\item[] Member of the EEA program committee (finance), EEA-ESEM Congress, Copenhagen 2021.
+\item[] Co-organizer, ``Financial Market Responses to Covid-19 Policy Interventions,'' Bank of Canada \& LSE, November 2020.
+\item[] Co-organizer, ``Systemic Risk in Over-The-Counter Markets,'' LSE, November 2015.
+\end{list1}
+
+\section{\sc Refereeing}
+\begin{list1}
+\item[] Economica, Journal of the European Economic Association, Journal of Money, Credit \& Banking, Macroeconomic Dynamics, North American Journal of Economics \& Finance, Review of Economic Studies
+\end{list1}
+
+\section{\sc Languages}
+\begin{list1}
+\item[] German (Native), English (Fluent), French (Fluent)
+\end{list1}
+
+%\section{\sc References}
+%\vspace{.05in}
+%\begin{tabular}{@{}p{0.20in}p{3.0in}p{2.75in}}
+% &  Marco Cipriani & Antonio Guarino \\   
+% & Research Group, Monetary and Payments Studies & Department of Economics\\
+% & Federal Reserve Bank of New York & University College London\\
+% & \texttt{marco.cipriani@ny.frb.org} & \texttt{a.guarino@ucl.ac.uk} \\
+% & & \\
+% & Jean-Pierre Zigrand \\   
+% & Department of Finance\\
+% & London School of Economics\\
+% & \texttt{j.p.zigrand@lse.ac.uk} \\
+%\end{tabular}
+
+
+
+\end{resume}
+\end{document}
