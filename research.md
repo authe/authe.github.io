@@ -12,7 +12,7 @@ permalink: /research/
 
 #### working papers
 
-[Specialization in Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5083905) with Milena Wittwer (Boston College).
+[Specialization in Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5083905) with Milena Wittwer (Columbia University).
 
 [Demand-Driven Risk Premia in FX and Bond Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5095671) with Ingomar Krohn, Rishi Vala and Jun Yang (Bank of Canada).
 
