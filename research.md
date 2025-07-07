@@ -26,6 +26,8 @@ permalink: /research/
 
 #### policy briefs
 
+[The impact of trading flows on Government of Canada bond prices](https://www.bankofcanada.ca/2025/07/staff-analytical-note-2025-20/) with Rishi Vala and Jun Yang (Bank of Canada), <em>Bank of Canada Staff Analytical Note<em>, 2025.
+
 [How central banks can meet the financial stability challenges arising from artificial intelligence](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/how-central-banks-can-meet-the-financial-stability-challenges-arising-from-artificial-intelligence/) with Jon Danielsson (LSE), <em>SUERF Policy Brief No. 1163<em>, 2025.
 
 [How big is cash-futures basis trading in Canada’s government bond market?](https://www.bankofcanada.ca/2024/06/staff-analytical-note-2024-16/) with Rishi Vala (Bank of Canada), <em>Bank of Canada Staff Analytical Note<em>, 2024.
