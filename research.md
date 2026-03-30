@@ -6,7 +6,7 @@ permalink: /research/
 
 #### publications
 
-[Artificial intelligence and financial crises](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903998) with Jon Danielsson (LSE), forthcoming <em>Journal of Financial Stability</em>.
+[Artificial intelligence and financial crises](https://www.sciencedirect.com/science/article/abs/pii/S1572308925000828) with Jon Danielsson (LSE), <em>Journal of Financial Stability</em>, volume 80(101453), 2025.
 
 [Financial Transaction Taxes and the Informational Efficiency of Financial Markets: A Structural Estimation](https://www.sciencedirect.com/science/article/abs/pii/S0304405X22000940) with Marco Cipriani (NY Fed) and Antonio Guarino (UCL), <em>Journal of Financial Economics</em>, volume 146(3), 2022.
 
@@ -18,7 +18,7 @@ permalink: /research/
 
 [Demand-Driven Risk Premia in FX and Bond Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5095671) with Ingomar Krohn, Rishi Vala and Jun Yang (Bank of Canada).
 
-[The calming of short-term market fears and its long-term consequences: The central banks' dilemma](https://authe.github.io/assets/MarketFears_FedCrisisActions.pdf) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE), R&R at the <em>Journal of Money, Credit & Banking</em>.
+[Central Bank Crisis Interventions and the Term Structure of Market Fear](https://authe.github.io/assets/MarketFears_FedCrisisActions.pdf) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE), R&R at the <em>Journal of Money, Credit & Banking</em>.
 
 [Strategic Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](https://authe.github.io/assets/StrategicUncertaintyOTCMarkets.pdf) with Lerby Ergun (Bank of Canada), R&R at the <em> Journal of Finance</em>.
 
