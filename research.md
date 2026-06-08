@@ -18,7 +18,7 @@ permalink: /research/
 
 [Demand-Driven Risk Premia in FX and Bond Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5095671) with Ingomar Krohn, Rishi Vala and Jun Yang (Bank of Canada).
 
-[Central Bank Crisis Interventions and the Term Structure of Market Fear](https://authe.github.io/assets/MarketFears_FedCrisisActions.pdf) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE), R&R at the <em>Journal of Money, Credit & Banking</em>.
+[Central Bank Crisis Interventions and the Term Structure of Market Fear](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3774218) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE), R&R at the <em>Journal of Money, Credit & Banking</em>.
 
 [Strategic Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](https://authe.github.io/assets/StrategicUncertaintyOTCMarkets.pdf) with Lerby Ergun (Bank of Canada), R&R at the <em> Journal of Finance</em>.
 
