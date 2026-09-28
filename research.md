@@ -16,18 +16,20 @@ permalink: /research/
 
 [Specialization in Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5083905) with Milena Wittwer (Columbia University).
 
-[Demand-Driven Risk Premia in FX and Bond Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5095671) with Ingomar Krohn, Rishi Vala and Jun Yang (Bank of Canada).
+[Demand-Driven Risk Premia in FX and Bond Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5095671) with Ingomar Krohn, Rishi Vala and Jun Yang (Bank of Canada), <em>Bank of Canada Staff Working Paper</em> 2025-29.
 
-[Central Bank Crisis Interventions and the Term Structure of Market Fear](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3774218) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE), R&R at the <em>Journal of Money, Credit & Banking</em>.
+[Central Bank Crisis Interventions and the Term Structure of Market Fear](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3774218) with Jon Danielsson (LSE), Lerby Ergun (Bank of Canada), Mattia Bevilacqua (University of Liverpool) and Jean-Pierre Zigrand (LSE), <em>Bank of Canada Staff Working Paper</em> 2026-17, R&R at the <em>Journal of Money, Credit & Banking</em>.
 
 [Strategic Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](https://authe.github.io/assets/StrategicUncertaintyOTCMarkets.pdf) with Lerby Ergun (Bank of Canada), R&R at the <em> Journal of Finance</em>.
 
 
 #### policy briefs
 
+[Balancing the Canadian Repo Market through QT: The Diminishing Role of Settlement Balances](https://www.bankofcanada.ca/2026/09/staff-analytical-paper-2026-40/) with Evan Dudley (Queen's), Jean-Sebastien Fontaine, Dimitri Hadjistavropoulos, Neil Maru, Sofia Tchamova and Jun Yang (Bank of Canada), <em>Bank of Canada Staff Analytical Paper</em>, 2026.
+
 [Hedge funds and their trading strategies in the Government of Canada bond market](https://www.bankofcanada.ca/2026/02/sparks-at-bank-article-2026-4/) with Adrian Walton (Bank of Canada), Sparks at Bank, 2026.
 
-[The Dealer-to-Client Repo Market: A Buoy on a Swaying Sea](https://www.bankofcanada.ca/2025/11/staff-discussion-paper-2025-14/) with Greg Adams (Wharton), Evan Dudley (Queen's), Jean-Sebastien Fontaine, Sofia Tchamova (Bank of Canada), <em>Bank of Canada Staff Analytical Note</em>, 2025.
+[The Dealer-to-Client Repo Market: A Buoy on a Swaying Sea](https://www.bankofcanada.ca/2025/11/staff-discussion-paper-2025-14/) with Greg Adams (Wharton), Evan Dudley (Queen's), Jean-Sebastien Fontaine, Sofia Tchamova (Bank of Canada), <em>Bank of Canada Staff Discussion Paper</em>, 2025.
 
 [The impact of trading flows on Government of Canada bond prices](https://www.bankofcanada.ca/2025/07/staff-analytical-note-2025-20/) with Rishi Vala and Jun Yang (Bank of Canada), <em>Bank of Canada Staff Analytical Note</em>, 2025.
 
