@@ -13,5 +13,8 @@ August 2019 - March 2022: Senior Economist, Bank of Canada
 
 August 2014 - July 2019: Research Officer, [Systemic Risk Centre](http://www.systemicrisk.ac.uk/), London School of Economics
 
+#### Editorial Positions
+since 2026: Associate Editor, *Macroeconomic Dynamics*
+
 #### Education
 PhD in Economics, [University College London](https://www.ucl.ac.uk/economics/), 2015
